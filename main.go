@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dumpcode"
+	"github.com/chanshik/dumpcode"
 	"io/ioutil"
 )
 
