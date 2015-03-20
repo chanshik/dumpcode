@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./dumpcode"
+	"dumpcode"
 	"io/ioutil"
 )
 
